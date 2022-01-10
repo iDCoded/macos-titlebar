@@ -8,7 +8,7 @@ Replicates the Discord macOS titlebar on Windows.
 ## Installation
 For **[Powercord](http://powercord.dev/)** or **[Vizality](https://vizality.com/)** installation, head over to your **Themes folder -> open a terminal of choice**, and paste / enter the following:
 ```
-git clone https://github.com/Discord-Theme-Addons/macos-titlebar
+git clone https://github.com/iDCoded/macos-titlebar
 ```
 
 **BetterDiscord**
