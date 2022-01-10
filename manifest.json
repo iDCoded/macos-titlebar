@@ -2,7 +2,7 @@
     "name": "macOS Titlebar",
     "description": "Replicates the Discord macOS titlebar on Windows.",
     "version": "1.2.0",
-    "author": "LuckFire#4800",
+    "author": "DCoded",
     "theme": "./src/_theme.scss",
     "consent": "true",
     "license": "MIT"
